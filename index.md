@@ -1,12 +1,13 @@
 ## Bruce's Professional Resume
 
-You can use the [editor on GitHub](https://github.com/gbcaptain/gbcaptain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Objective
 
-### Markdown
+Eager learner and strategic self-starter, enthusiastic about cloud-based architectural solutions development, looking for Technical Engineer positions, where over 10 years of experience managing large-scale distributed system integration and network applications across multiple platforms, coupled with graduate education in Electrical & Computer Engineering will add value to your team.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interest Area
+
+Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualization / Software Define Network (SDN) / System Network Automation & Orchestration / DevOps
 
 ```markdown
 Syntax highlighted code block
