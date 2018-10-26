@@ -37,6 +37,15 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	Wireshark, TCP Dump, JMeter, RabbitMQ
 -	Atlassian Suite (Confluence/JIRA), BMC Remedy; 
 
+# System
+
+# Database
+
+# Security
+
+# Integration
+
+```
 
 1. Numbered
 2. List
@@ -44,8 +53,6 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
