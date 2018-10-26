@@ -14,7 +14,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 ### Areas of Expertise
 ```markdown
-# Network
+## Network
 -	IP networks, Routing, Switching, WAN, LAN, Wireless, IP Video, Internet, Hosting
 -	BGP, EIGRP, OSPF, TCP/IP protocol suite, LAN (Ethernet, Token Ring and FDDI); WAN protocols (X.25, Frame Relay, and ATM); IP addressing (CIDR, Subnetting, VLSM)
 -	TCP/UDP, HTTP, RSTP, DHCP, VLAN (802.1Q), MPLS, NAT, ARP,TELNET, ICMP, SSL
@@ -23,11 +23,11 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	WAN Optimization: Caching, Compression, Data Reduction, Latency Reduction, QoS tagging, Packet coalescing, DNS query/record type/optimization
 -	OpenStack, OpenWRT, OpenDayLight, Clearwater, OpenVSwitch, VDS 
 
-# Storage
+## Storage
 -	SAN, RAID, iSCSI, FC HBA, FC LUN, NFS, VMFS, NAS
 -	OpenSDS, Openstack Cinder, Virtual SANs, Inter-VSAN Routing (IVR) 
 
-# Software
+## Software
 -	Service-Oriented Architecture: WCF/SOAP, Restful HTTP, JSON, XML
 -	SCM (GIT, github), Build (CMake, Make files, Maven), Nexus, CI(Jenkins)
 -	Front End: HTML, CSS, Javascript, Modular JS, jQuery, Angular.JS
@@ -37,13 +37,13 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	Wireshark, TCP Dump, JMeter, RabbitMQ
 -	Atlassian Suite (Confluence/JIRA), BMC Remedy; 
 
-# System
+## System
 
-# Database
+## Database
 
-# Security
+## Security
 
-# Integration
+## Integration
 
 ```
 
