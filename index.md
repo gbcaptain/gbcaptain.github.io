@@ -1,4 +1,4 @@
-## Welcome to Bruce Guan's Personal Site
+## Bruce's Professional Resume
 
 You can use the [editor on GitHub](https://github.com/gbcaptain/gbcaptain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
