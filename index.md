@@ -62,10 +62,10 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ### Education
 -	Master of Applied Science, Electrical Engineering						        2012
 >    Ryerson University, Toronto, ON, Canada
-    - Stipend ($17k/year) from Graduate school
-    - 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
+>    - Stipend ($17k/year) from Graduate school
+>    - 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
 -	Master of Engineering, Computing & Communication of Science					    2010
 >    Graduate University of Chinese Academy of Science, Beijing, China  
 -	Bachelor of Science, Electrical Information Engineering						    2006
 >    Henan University of Technology, Zhengzhou, China  
-    -  Won the best graduation thesis award
+>    -  Won the best graduation thesis award
