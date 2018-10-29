@@ -61,28 +61,11 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 ### Education
 -	Master of Applied Science, Electrical Engineering						        2012
-  Ryerson University, Toronto, ON, Canada
-•	Stipend ($17k/year) from Graduate school
-•	2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
+    Ryerson University, Toronto, ON, Canada
+    - Stipend ($17k/year) from Graduate school
+    - 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
 -	Master of Engineering, Computing & Communication of Science					2010
-  Graduate University of Chinese Academy of Science, Beijing, China  
+    Graduate University of Chinese Academy of Science, Beijing, China  
 -	Bachelor of Science, Electrical Information Engineering						  2006
-  Henan University of Technology, Zhengzhou, China  
-•	Won the best graduation thesis award
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gbcaptain/gbcaptain.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Henan University of Technology, Zhengzhou, China  
+    -  Won the best graduation thesis award
