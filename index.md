@@ -36,7 +36,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	Atlassian Suite (Confluence/JIRA), BMC Remedy; 
 
 # System
-- Virtual Machine Monitor (VMM): Native/Bare-metal hypervisor (type-1), hosted hypervisor (type-2)
+-	Virtual Machine Monitor (VMM): Native/Bare-metal hypervisor (type-1), hosted hypervisor (type-2)
 -	Linux, MS Servers, Apache HTTP Server (lighttpd), CoreOS, Docker, Kubernetes, Mesos, Rancher
 -	ESXi, VMware (vCenter/VSphere), AWS, GCP, Rackspace, HDP, OpenStack
 -	HP c7000 enclosure / Proliant BL 460c Blade, Cisco router, Catalyst series switch; Cisco ASA 5500 Series, Firewall Pix 501,515, Cisco ACS server, F5 Load balancer (BIG IP), Citrix Netscaler
