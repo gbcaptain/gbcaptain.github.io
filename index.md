@@ -47,6 +47,30 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 ```
 
+### Certifications
+-	Professional Engineers Ontario (P.Eng)						                (In Process)
+-	AWS Certified Solution Architect – Professional (SAP)						          2018
+-	AWS Certified Solution Architect – Associate (SAA)						            2018
+-	Oracle Database 11g Administrator Certified Associate (OCA)					      2017
+-	VMware Certified Professional – Data Center Virtualization (VCP6-CDV)			2017
+-	Oracle Database 12c: Administration Workshop						                  2016
+-	Juniper Authorized Design Specialist,								                      2014
+-	Juniper Service Provider Aspiring Accreditation,						              2014
+-	Cisco Certified Design Associate (CCDA), 							                    2013 
+-	Cisco Certified Network Associate (CCNA),				  			                  2013
+
+### Education
+-	Master of Applied Science, Electrical Engineering						        2012
+  Ryerson University, Toronto, ON, Canada
+•	Stipend ($17k/year) from Graduate school
+•	2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
+-	Master of Engineering, Computing & Communication of Science					2010
+  Graduate University of Chinese Academy of Science, Beijing, China  
+-	Bachelor of Science, Electrical Information Engineering						  2006
+  Henan University of Technology, Zhengzhou, China  
+•	Won the best graduation thesis award
+
+
 1. Numbered
 2. List
 
