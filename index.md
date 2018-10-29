@@ -46,6 +46,22 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ## Integration
 
 ```
+### Relevant Work Experience  
+- Platform Specialist, Video Core System 
+> Rogers, Brampton, Canada                                                            		         		12/2014-present 
+
+- Customer System Engineer 
+> Bell Canada, Mississauga, Canada                                                            		    12/2012-11/2014
+
+- Research Assistant 
+> Ryerson University, Toronto, Canada                                                                 02/2011-11/2012
+
+- Integration Engineer
+> Communication University of China, Beijing, Canada                                                  05/2009-09/2010
+
+- System Engineer 
+> ROXUS INC., Beijing, China                                                                          03/2007-05/2009 
+
 
 ### Certifications
 -	Professional Engineers Ontario (P.Eng),						            (In Process)
