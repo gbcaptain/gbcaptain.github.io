@@ -76,7 +76,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 
 ### Certifications
--	Professional Engineers Ontario (P.Eng),						                     | (In Process)
+-	Professional Engineers Ontario (P.Eng),						                     |     2019
 -	AWS Certified Solution Architect – Professional (SAP),						     |     2018
 -	AWS Certified Solution Architect – Associate (SAA),						         |     2018
 -	Oracle Database 11g Administrator Certified Associate (OCA),					 |     2017
@@ -90,10 +90,10 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ### Education
 -	Master of Applied Science, Electrical Engineering						           | 2012
 >    Ryerson University, Toronto, ON, Canada
->    - Stipend ($17k/year) from Graduate school
+>    - recieved Graduate Student Stipend during study periods
 >    - 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
 -	Master of Engineering, Computing & Communication of Science					   | 2010
 >    Graduate University of Chinese Academy of Science, Beijing, China  
 -	Bachelor of Science, Electrical Information Engineering						     | 2006
 >    Henan University of Technology, Zhengzhou, China  
->    -  Won the best graduation thesis award
+>    -  Won the best graduation thesis award  (Topic: Nonlinear Distortion Noise Cancellation Filter Design)
