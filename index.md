@@ -59,7 +59,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 ```
 ### Relevant Work Experience  
-- Platform Specialist, Video Core System 
+- Platform Specialist, Video Core System | Infrastructure Service Validation
 > Rogers, Brampton, Canada                                            |                		         		12/2014-present 
 
 - Customer System Engineer 
