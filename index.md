@@ -97,3 +97,8 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	Bachelor of Science, Electrical Information Engineering						     | 2006
 >    Henan University of Technology, Zhengzhou, China  
 >    -  Won the best graduation thesis award  (Topic: Nonlinear Distortion Noise Cancellation Filter Design)
+
+### Volunteering Experience
+- Food Hamper Packing (Food Bank Canada)				                         | 2020
+- Give Together Volunteer (Rogers)				                               | 2018
+- Nuit Blanche Toronto Volunteer (Scotiabank)				                     | 2011
