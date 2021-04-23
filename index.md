@@ -80,7 +80,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	Professional Engineers Ontario (P.Eng),						                     |     2019
 -	AWS Certified Solution Architect – Professional (SAP),						     |     2018
 -	AWS Certified Solution Architect – Associate (SAA),						         |     2018
--	Oracle Database 11g Administrator Certified Associate (OCA),					 |     2017
+-	Oracle Database Administrator Certified Associate (OCA),					     |     2017
 -	VMware Certified Professional – Data Center Virtualization (VCP6-CDV), |		 2017
 -	Oracle Database 12c: Administration Workshop,		    		               |     2016
 -	Juniper Authorized Design Specialist,								                   |     2014
