@@ -76,6 +76,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 
 ### Certifications
+-	AWS Certified DevOps Engineer – Professional,         						     |     2021
 -	Professional Engineers Ontario (P.Eng),						                     |     2019
 -	AWS Certified Solution Architect – Professional (SAP),						     |     2018
 -	AWS Certified Solution Architect – Associate (SAA),						         |     2018
