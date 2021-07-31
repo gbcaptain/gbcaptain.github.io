@@ -38,7 +38,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 >    Henan University of Technology, Zhengzhou, China  
 >    -  Won the best graduation thesis award  (Topic: Nonlinear Distortion Noise Cancellation Filter Design)
 
-### Project Experience
+### Projects
 
 
 ### Areas of Expertise
