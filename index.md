@@ -60,46 +60,51 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ```
 ### Relevant Work Experience  
 - Platform Specialist, Video Core System | Infrastructure Service Validation
-> Rogers, Brampton, Canada                                            |                		         		12/2014-present 
+> Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2014-present
 
 - Customer System Engineer 
-> Bell Canada, Mississauga, Canada                                    |                       		    12/2012-11/2014
+> Bell Canada (Mississauga, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2012-11/2014
 
 - Research Assistant 
-> Ryerson University, Toronto, Canada                                 |                               02/2011-11/2012
+> Ryerson University (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;02/2011-11/2012
 
 - Integration Engineer
-> Communication University of China, Beijing, Canada                  |                               05/2009-09/2010
+> Communication University of China (Beijing, China)&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 05/2009-09/2010
 
 - System Engineer 
-> ROXUS INC., Beijing, China                                          |                               03/2007-05/2009 
+> ROXUS INC. (Beijing, China)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;03/2007-05/2009
 
-
-### Certifications
--	AWS Certified DevOps Engineer – Professional (DOP),    						     |     2021
--	Professional Engineers Ontario (P.Eng),						                     |     2019
--	AWS Certified Solution Architect – Professional (SAP),						     |     2018
--	AWS Certified Solution Architect – Associate (SAA),						         |     2018
--	Oracle Database Administrator Certified Associate (OCA),					     |     2017
--	VMware Certified Professional – Data Center Virtualization (VCP6-CDV), |		 2017
--	Oracle Database 12c: Administration Workshop,		    		               |     2016
--	Juniper Authorized Design Specialist,								                   |     2014
--	Juniper Service Provider Aspiring Accreditation,						           |     2014
--	Cisco Certified Design Associate (CCDA), 							                 |     2013 
--	Cisco Certified Network Associate (CCNA),				  			               |     2013
 
 ### Education
--	Master of Applied Science, Electrical Engineering						           | 2012
+-	Master of Applied Science, Electrical Engineering&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2012
 >    Ryerson University, Toronto, ON, Canada
->    - recieved Graduate Student Stipend during study periods
->    - 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
--	Master of Engineering, Computing & Communication of Science					   | 2010
+```markdown
+- recieved Graduate Student Stipend during study periods
+- 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
+```
+-	Master of Engineering, Computing & Communication of Science&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2010
 >    Graduate University of Chinese Academy of Science, Beijing, China  
--	Bachelor of Science, Electrical Information Engineering						     | 2006
+-	Bachelor of Science, Electrical Information Engineering&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2006
 >    Henan University of Technology, Zhengzhou, China  
->    -  Won the best graduation thesis award  (Topic: Nonlinear Distortion Noise Cancellation Filter Design)
+```markdown
+-  Won the best graduation thesis award  (Topic: Nonlinear Distortion Noise Cancellation Filter Design)
+```
+
+### Certifications
+-	AWS Certified DevOps Engineer – Professional (DOP)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2021
+-	Professional Engineers Ontario (P.Eng)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2019
+-	AWS Certified Solution Architect – Professional (SAP)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2018
+-	AWS Certified Solution Architect – Associate (SAA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2018
+-	Oracle Database Administrator Certified Associate (OCA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2017
+-	VMware Certified Professional – Data Center Virtualization (VCP6-CDV) &emsp;&ensp;|&emsp;&ensp;2017
+-	Oracle Database 12c: Administration Workshop&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2016
+-	Juniper Authorized Design Specialist&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&ensp;2014
+-	Juniper Service Provider Aspiring &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2014
+-	Cisco Certified Design Associate (CCDA) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&ensp;2013 
+-	Cisco Certified Network Associate (CCNA)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp; 2013
+
 
 ### Volunteering Experience
-- Food Hamper Packing (Food Bank Canada)				                         | 2020
-- Give Together Volunteer (Rogers)				                               | 2018
-- Nuit Blanche Toronto Volunteer (Scotiabank)				                     | 2011
+- Food Hamper Packing (Food Bank Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&ensp;2020
+- Give Together Volunteer (Rogers)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2018
+- Nuit Blanche Toronto Volunteer (Scotiabank)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2011
