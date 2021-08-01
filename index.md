@@ -105,6 +105,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 
 ### Volunteering Experience
+- Friendly Call Program (Canadian Red Cross Society)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&ensp;2021
 - Food Hamper Packing (Food Bank Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&ensp;2020
 - Give Together Volunteer (Rogers)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2018
 - Nuit Blanche Toronto Volunteer (Scotiabank)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2011
