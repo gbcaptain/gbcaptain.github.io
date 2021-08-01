@@ -2,7 +2,7 @@
 ![Image of Certification](https://gbcaptain.github.io/images/all.png)
 
 ### Contacts
-* Phone: 1-647-299(3674) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: gbcaptain@gmail.com
+* Phone: 1-xxx-xxx(xxxx) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: xxxx@xxx.xxx
 
 ### Objective
 Eager learner and strategic self-starter, enthusiastic about cloud-based architectural solutions development, looking for Technical Engineer positions, where over 10 years of experience managing large-scale distributed system integration and network applications across multiple platforms, coupled with graduate education in Electrical & Computer Engineering will add value to your team.
