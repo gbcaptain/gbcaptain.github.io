@@ -78,17 +78,11 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ### Education
 -	Master of Applied Science, Electrical Engineering&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2012
 >    Ryerson University, Toronto, ON, Canada
-```markdown
-- recieved Graduate Student Stipend during study periods
-- 2 academic papers (Software Define Radio) published in the conference proceeding by IEEE Computer/Signal Processing Society press respectively (IUCC2012/MMSP2011)
-```
 -	Master of Engineering, Computing & Communication of Science&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2010
 >    Graduate University of Chinese Academy of Science, Beijing, China  
 -	Bachelor of Science, Electrical Information Engineering&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 2006
 >    Henan University of Technology, Zhengzhou, China  
-```markdown
--  Won the best graduation thesis award  (Topic: Nonlinear Distortion Noise Cancellation Filter Design)
-```
+
 
 ### Certifications
 -	AWS Certified DevOps Engineer – Professional (DOP)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&ensp;2021
