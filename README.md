@@ -1,6 +1,6 @@
 # Welcome to gbcaptain.github.io
 This is for personal study and Profesional Experience Record only. Thank you for visiting!
-Academic|Industrial
+Academic|Professional
 ---|---
 👋 [Click Here](https://gbcaptain.github.io/Academic.html)|👋 [Click Here](https://gbcaptain.github.io/)
 <img align="right" alt="GIF" src="https://github.com/gbcaptain/gbcaptain.github.io/blob/master/images/dev_desk.gif" width="400"/>
