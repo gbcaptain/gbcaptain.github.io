@@ -3,7 +3,7 @@ This is for personal study and Profesional Experience Record only. Thank you for
 Academic|Industrial
 ---|---
 👋 [Click Here](https://gbcaptain.github.io/Academic.html)|👋 [Click Here](https://gbcaptain.github.io/)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/gbcaptain/gbcaptain.github.io/blob/master/images/dev_desk.gif" width="400"/>
 
 <br />
 
