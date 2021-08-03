@@ -59,7 +59,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 
 ```
 ### Relevant Work Experience  
-- Platform Specialist, Video Core System | Infrastructure Service Validation
+- Platform Specialist, DTV Services & Automation
 > Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2014-present
 
 - Customer System Engineer 
