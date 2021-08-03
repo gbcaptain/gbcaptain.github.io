@@ -1,19 +1,26 @@
 # Welcome to gbcaptain.github.io
 This is for personal study and Profesional Experience Record only. Thank you for visiting!
+Academic|Industrial
+---|---
+👋 [Click Here](https://gbcaptain.github.io/Academic.html)|👋 [Click Here](https://gbcaptain.github.io/)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="550"/>
+
+<br />
 
 ### About me:
-- I just launched my first github site
-- I'm currently learning everything
-- I'm looking to collaborate with other developer for fun projects
-- 2021 Goal: Contribute more to Open Source projects
-- Hobby: Music, Movies, Books
+- 🎓 &nbsp;I just launched my first github site
+- 🤔 &nbsp;I'm currently learning everything
+- 🔭 &nbsp;I'm looking to collaborate with other developer for fun projects
+- 🌱 &nbsp;2021 Goal: Contribute more to Open Source projects
+- ☕ &nbsp;Hobby: Music, Movies, Books
 
 ### Connect with me:
 
-- Academic Profile Access:    👋 [Click Here](https://gbcaptain.github.io/Academic.html)
-
-- Industrial Profile Access:  👋 [Click Here](https://gbcaptain.github.io/)
-
+<p align="left">
+&nbsp; <a href="https://twitter.com/Bruce_Guan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/bruce-guan-495b762b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:gbcaptain@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 
 ### Languages and Tools:
@@ -25,6 +32,7 @@ This is for personal study and Profesional Experience Record only. Thank you for
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br />
 <br />
+
 
 ---
 
