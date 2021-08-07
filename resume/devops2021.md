@@ -38,25 +38,25 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ```markdown
 - Provide L3 support for cloud based microservices platform & backend infrastructure (Java Spring based/Tomcat/NGINX/MongoDB/ELK/Docker), service upgrade/system monitoring/troubleshooting
 - Implement engineering plans, designs, and specifications for upgrades, capacity augments, and expansions of Lab/Prod SOA based services
-- Analysis API with Ready API for security and application purpose , source tree with BitBucket
+- Analysis API with ReadyAPI for security and application purpose, source tree with BitBucket
 - Responsible in maintaining code release cycles for Ansible that used for orchestrating the configuration management for system upgrade (Github/Bitbucket)
 - Applied Dev Ops CI /CD methodology (Jenkins), collaborate with Release management team to test and deploy Hotfix into production environment
 - Apply JIRA/Stack for code & bugfix management with variety team under Agile environment
-- Leading the site reliability engineering implementation for HA and Disaster Recovery for private cloud/virtualiz ed environment
-- Detail Implementation of multi cluster platform on UCS/HP solution for private cloud infrastructure HA + DR supported)
+- Leading the site reliability engineering implementation for HA and Disaster Recovery for private cloud/virtualized environment
+- Detail Implementation of multi cluster platform on UCS/HP solution for private cloud infrastructure (HA + DR supported)
 - Orchestrated with Ansible for large scale container based infrastructure (Docker +Node.JS ), responsible for daily platform monitoring and service upgrade (SLA)
 - Transition of network solutions to production for SDN solution (Openstack + HA)
-- Conduct Rogers IP Core Network & S ystem Expansion, including VM Farm/EXSi deployment, Computation/Network/Storage live migration (vMotion/vDS configuration) and capacity expansion.
+- Conduct Rogers IP Core Network & System Expansion, including VM Farm/EXSi deployment, Computation/Network/Storage live migration (vMotion/vDS configuration) and capacity expansion.
 - Lead and implement automated performance test for core API services (JMeter)
 - Lead operational acc eptance testing and report results. Prepare, execute, and publish ATP and results for all new network solution transitions to production. Identify and communicate to management team corrective actions necessary to resolve any deficiencies noted
-- Take the i nitiative for core database (MySQL) maintenance support, using yaml for configuration management of increasing DB connection pool, clear search cache
+- Take the initiative for core database (MySQL) maintenance support, using yaml for configuration management of increasing DB connection pool, clear search cache
 - Responsible for daily maintenance of production Cassandra cluster (NoSQL DB), including Data truncation, expand Cass Node, data repair & cleanup, compaction strategy conversion, routine backup
 - Leading development projects for NextGen application platform KPI and performance dashboard for Ops monitoring (SPLUNK/ELK)
 - Collaborate with OSS to build out and refresh real time platform data repository in Splunk for daily operations and KPI Reports in BO for trend control by management.
-- Collaborate with QA to identify and action top call drivers (reactive) and top Net Promoter Score(NPS) drivers for video (netw ork influenced).
+- Collaborate with QA to identify and action top call drivers (reactive) and top Net Promoter Score(NPS) drivers for video network influenced.
 - Drive network change activity that support engineering plans/specifications for new services and for capacity augments and expansions.
-- Manage implementation of network changes while ensuring stability of overall Manage implementation of network changes while ensuring stability of overall CloudCloud--based based IP Video IP Video platfplatform through national service orm through national service regions.regions.
-- Knowledge transfer to NOC for first level incident resolution. Operational support for service outages, Knowledge transfer to NOC for first level incident resolution. Operational support for service outages, maintenance, security, and problem resolution.maintenance, security, and problem resolution.
+- Manage implementation of network changes while ensuring stability of overall Manage implementation of network changes while ensuring stability of overall Cloud-based IP Video platform through national service regions.
+- Knowledge transfer to NOC for first level incident resolution. Operational support for service outages, Knowledge transfer to NOC for first level incident resolution. Operational support for service outages, maintenance, security, and problem resolution.
 ```
 - Customer System Engineer 
 > Bell Canada (Mississauga, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2012-11/2014
@@ -68,7 +68,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 - Attended pre sales meeting and telephone conference, work with sales team to design and build customer solutions (EI/EIP/IPVPN products)
 - Provide technical expertise (network and equipment) to the recipient teams and customers
 - Act as technical design CPE Managed service network deployments, and implementation for dedicated SP customers
-- Conduct & provision with Carrier Access Network design assessments and equipment provision (which include L2/L3 VLAN, IPVPN, Fiber Access, Wavelength, Wireless
+- Conduct & provision with Carrier Access Network design assessments and equipment provision (which include L2/L3 VLAN, IPVPN, Fiber Access, Wavelength, Wireless)
 - Work with Product and CSE team to develop and recommend methods to deliver products and services to meet customers’ requirements, such as BOM design, technical research for RFPs
 ```
 
@@ -78,7 +78,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 - Engaged in a large network communication architecture design for CUE's Smart Grid project; designing system components including wireless and wired LAN/WAN technologies such as WiMAX, WiFi Mesh, cellular, Fiber
 - Working experience with UMTS and WiMAX equipment from major network infrastructure RAN vendors(Siemens), particularly knowledge of protocol related configuration and parameters
 - Deployed QoS Queuing, shaping and policing for data traffic, mainly towards WiFi mesh network topology
-- Designed VoIP solution for Synaptop Cloud Computing Company, developed the front end interface and integration SIP server for demo
+- Designed VoIP solution for Cloud Computing Company(Synaptop), developed the front end interface and integration SIP server for demo
 - Maintain leading edge technical knowledge and expertise, provide bi-weekly presentations to Vendor(Toronto Hydro)
 - Resolved the specific requirements from the proposal of the organization meeting the Service Level Agreement(SLA)
 ```
@@ -88,7 +88,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ```markdown
 - Participate and contribute to the development of the architectural roadmap and evolution
 - DMS multi channel audio processing system design, construction, maintenance and supervision for engineering construction of the multi-channel audio recording studio channel audio recording studio
-- Supervised over 5 technical staff to ensure successful live Supervised over 5 technical staff to ensure successful live digital digital recording with symphony orchestra recording with symphony orchestra in Beijing and Tianjin Theaterin Beijing and Tianjin Theaters
+- Supervised over 5 technical staff to ensure successful live Supervised over 5 technical staff to ensure successful live digital digital recording with symphony orchestra recording with symphony orchestra in Beijing and Tianjin Theaters
 - Responsible for demonstration of DMS system according to the specified requirements, that result in the potential investments and the potential investments and projects on the construction of DMS theaters across China
 - Maintained system performance by performing system monitoring tools, and performance tuning troubleshooting of system hardware and software, escalating hardware problem to vendors.
 ```
@@ -103,7 +103,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 - Deployed Video Streaming Services (Darwin Streaming Server), implemented VOD unicasting and multicasting functions RTSP/RTP, H264/MPEG4 AVC)
 - Implemented Dial Peers, H.323 gateways for set top box IP Video Telephony functions, Setup conference calls between offices
 - Configured Cisco Uni fied Call Manager for processing the video calls and H.323 gateways to simultaneous transmit data, voice, and video between the two offices without quality degradation of voice and video
-- Performed from planning through completion of LAN Network installatio n including Linux Servers and Routers, Switches, set up for ATSC/QAM tuner, Cable Modem
+- Performed from planning through completion of LAN Network installation including Linux Servers and Routers, Switches, set up for ATSC/QAM tuner, Cable Modem
 - Maintained the network environment including Windows, Linux and Unix Server
 - Troubleshoot PC hardware, Operating System, LAN/WAN issue and provided prompt resolution and ensured critical applications and network connectivity are available to users during busy business hours
 - Develop and maintain network design documents, configuration templates, diagrams and support advisories
