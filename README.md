@@ -1,9 +1,10 @@
-# Welcome to gbcaptain.github.io
 <p align="right">
   <a href="https://gbcaptain.github.io"><img src="https://img.shields.io/github/issues/gbcaptain/gbcaptain.github.io" alt=""></a>
   <a href="https://gbcaptain.github.io"><img src="https://img.shields.io/github/forks/gbcaptain/gbcaptain.github.io" alt=""></a>
   <a href="https://gbcaptain.github.io"><img src="https://img.shields.io/github/stars/gbcaptain/gbcaptain.github.io" alt=""></a>
 </p>
+
+# Welcome to gbcaptain.github.io
 This is for personal study and Profesional Experience Record only. Thank you for visiting!
 Academic|Professional
 ---|---
