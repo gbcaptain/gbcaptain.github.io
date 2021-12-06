@@ -58,9 +58,13 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 -	Private/Public Cloud solution, CDN, Video Distribution Network, Openstack Mitaki HA, Terraform
 
 ```
-### Relevant Work Experience  
+### Relevant Work Experience
+
+- Cloud Designer, Core Technology Planning
+> Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2021-present
+
 - Platform Specialist, DTV Services & Automation
-> Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2014-present
+> Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2014-12/2021
 
 - Customer System Engineer 
 > Bell Canada (Mississauga, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2012-11/2014
