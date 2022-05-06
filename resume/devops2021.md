@@ -33,7 +33,24 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 - Working effectively both individually and in a team environment , develop exceptional relationships with coworkers, management and end users
 
 ### Work Experience  
-- Platform Specialist, Video Core System | Infrastructure Service Validation
+- Sr. Cloud Designer, Core Technology Planning
+> Rogers Communication Inc. (Toronto, Canada)&emsp;&ensp;|&emsp;&ensp;12/2021-present
+```markdown
+-   Developing the 3 year network roadmaps for Telco solutions including Cloud Application Virtualization & Cloud Infrastructure
+-   Analyze and produce architectural roadmap and evolution for the platforms and technologies with with Core Networks
+-   Develop Architecture Analysis documents, articulating the technology options, recommendations and rationale, constraints, high-level schedule and cost/budget requirement
+-   Consolidate all the documentation for the yearly infrastructure new build and expansions: Budget templates, CA, Vendor quotes, POs, Infra Planning Specs.
+-   Support PM build Plan of Intent and provide oversight over the financial throughout the duration of the infra build projects.
+-   Define Cloud capacity performance KPIs based on Technology and Business requirements
+-   Produce and analyze cloud capacity reports and make recommendations to the application owners on the right-sizing of their apps.
+-   IP Network design on 4G/5G NSA/SA, IMS technologies and cable DOCSIS 3.0/3.1 network
+-   Collaborate with peerinhg engineering and business team to develop short/long term roadmap for Service Provider IP Network and Cloud Infrastructure 
+-   Manage the life cycle of IP Network Infrastructure (Common Cloud)
+-   Create Engineering Design Specification and network Diagrams for new technology introduction, network virtualzation & service integration, and network upgrade
+-   Develop and master techinical expertise of new technology and end-to-end solution, sahre, train & coach other team members for onboarding and countinous support
+-   Vendor management: review current solutions to ensure alignment with capacity forecast and architecture roadmap.
+```
+- Infrastructure Engineer, Video Core Systems | Infrastructure Service Validation
 > Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2014-present 
 ```markdown
 - Provide L3 support for cloud based microservices platform & backend infrastructure (Java Spring based/Tomcat/NGINX/MongoDB/ELK/Docker), service upgrade/system monitoring/troubleshooting
