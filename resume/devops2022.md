@@ -5,7 +5,7 @@
 * Phone: 1-xxx-xxx(xxxx) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: xxxx@xxx.xxx
 
 ### Objective
-Eager learner and strategic self-starter, enthusiastic about cloud-based architectural solutions development, looking for Technical Engineer positions, where over 10 years of experience managing large-scale distributed system integration and network applications across multiple platforms, coupled with graduate education in Electrical & Computer Engineering will add value to your team.
+Eager learner and strategic self-starter, enthusiastic about SDN/NFV virtualization architeture for cloud data center design, looking for Technical Engineer positions, where over 10 years of experience managing large-scale distributed system integration and network applications across multiple platforms, coupled with graduate education in Electrical & Computer Engineering will add value to your team.
 
 ### Interest Area
 
@@ -14,7 +14,8 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ### Highlights of Qualifications
 - Team oriented technical lead with over 10 years of experience managing integrated IP Network Platform Systems, Web, Middleware, Database and associated applications
 - Expertise in designing, analyzing and troubleshooting large scale distributed systems.
-- Excellent understanding of SDN concepts, mechanisms and standards, data modeling, enthusiastic about Clos technology and related
+- Experience with Network Overlay and SD-WAN, SDN/NFV virtualization architeture for cloud data center design
+- Experience the foundations for cloud based infrastructutre (compute, VMware NSX & Networking), software orchestration & automation
 - Strong knowledge with virtualization technologies and converged infrastructure stack across server, storage, and networking
 - In depth knowledge and understanding of Monolithic Core and MircoService (SOA) Architecture
 - Skill in cutting edge cloud platform deployment, micro service based managed distributed network services (SOA) integration & verification for lab/production (JIRA agile RD environment)
@@ -38,12 +39,11 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ```markdown
 -   Developing the 3 year network roadmaps for Telco solutions including Cloud Application Virtualization & Cloud Infrastructure
 -   Analyze and produce architectural roadmap and evolution for the platforms and technologies with with Core Networks
+-   Design Data Center Network & Infrastructure on 4G/5G NSA/SA, IMS technologies and cable DOCSIS 3.0/3.1
 -   Develop Architecture Analysis documents, articulating the technology options, recommendations and rationale, constraints, high-level schedule and cost/budget requirement
 -   Consolidate all the documentation for the yearly infrastructure new build and expansions: Budget templates, CA, Vendor quotes, POs, Infra Planning Specs.
--   Support PM build Plan of Intent and provide oversight over the financial throughout the duration of the infra build projects.
 -   Define Cloud capacity performance KPIs based on Technology and Business requirements
 -   Produce and analyze cloud capacity reports and make recommendations to the application owners on the right-sizing of their apps.
--   IP Network design on 4G/5G NSA/SA, IMS technologies and cable DOCSIS 3.0/3.1 network
 -   Collaborate with peerinhg engineering and business team to develop short/long term roadmap for Service Provider IP Network and Cloud Infrastructure 
 -   Manage the life cycle of IP Network Infrastructure (Common Cloud)
 -   Create Engineering Design Specification and network Diagrams for new technology introduction, network virtualzation & service integration, and network upgrade
