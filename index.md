@@ -60,7 +60,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 ```
 ### Relevant Work Experience
 
-- Sr. Cloud Designer, Core Technology Planning & Development
+- Sr. Cloud Designer, Wireless Data Core Engineering
 > Rogers Communication Inc. (Toronto, Canada)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;12/2021-present
 
 - Platform Specialist, Core Video Services & Automation
