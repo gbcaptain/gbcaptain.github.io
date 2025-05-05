@@ -4,34 +4,20 @@
 ### Contacts
 * Phone: 1-xxx-xxx(xxxx) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: xxxx@xxx.xxx
 
-### Objective
-Eager learner and strategic self-starter, enthusiastic about SDN/NFV virtualization architeture for cloud data center design, looking for Technical Engineer positions, where over 10 years of experience managing large-scale distributed system integration and network applications across multiple platforms, coupled with graduate education in Electrical & Computer Engineering will add value to your team.
+### Summary
+Expert in architecting and managing hyperscale Kubernetes environments and 5G cloud-native networks, with 10+ years of experience designing, automating, and securing large-scale distributed systems for national-level deployments. Proven ability to lead cloud infrastructure planning, reliability engineering, and performance optimization for high-traffic, low-latency streaming and data platforms.
 
 ### Interest Area
 
 Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualization / Software Define Network (SDN) / System Network Automation & Orchestration / DevOps
 
-### Highlights of Qualifications
-- Team oriented technical lead with over 10 years of experience managing integrated IP Network Platform Systems, Web, Middleware, Database and associated applications
-- Expertise in designing, analyzing and troubleshooting large scale distributed systems.
-- Experience with Network Overlay and SD-WAN, SDN/NFV virtualization architeture for cloud data center design
-- Experience the foundations for cloud based infrastructutre (compute, VMware NSX & Networking), software orchestration & automation
-- Strong knowledge with virtualization technologies and converged infrastructure stack across server, storage, and networking
-- In depth knowledge and understanding of Monolithic Core and MircoService (SOA) Architecture
-- Skill in cutting edge cloud platform deployment, micro service based managed distributed network services (SOA) integration & verification for lab/production (JIRA agile RD environment)
-- Familiar with Continuous Integration (CI) and Continuous Deployment (CD), DevOps technology, and hands on with new solution release process (Lab/Staging/Production environment)
-- Experience on data center configuration management and orchestration planning (Linux/Docker/Ansible)
-- In depth experience of Private Cloud Data Center design and implementation
-- Familiar with industrial Public Cloud solution & platforms (IaaS/NaaS)
-- Knowledge of the design and implementation of CDN /Load balancing integration for multi-screen HLS Video Delivery services (phone/tablet/STB/PC)
-- Experience in programing with C, C++, Java, JavaScript, Python, Perl, and PowerShell scripting.
-- Systematic problem solving approach coupled with strong communication skills and a sense of ownership and drive
-- Ability to debug and optimize code and automate routine tasks
-- Experiences on implement ing 3rd party solutions under the Platform Technologies function to best suit business requirements
-- Organizational development and systems/network optimization. Skilled problem identifier and troubleshooter comfortable managing systems, projects and teams in a range of IT environments
-- Proven success through maintaining focus on achieving results, meeting deadlines and surpassing expectations of management
-- Excellent organizational skills in preparing proposals and documentations , and proven interpersonal and communication skills
-- Working effectively both individually and in a team environment , develop exceptional relationships with coworkers, management and end users
+### Core Competencies
+- Hyperscale Kubernetes & Cloud-Native Design – Designed and deployed large-scale Kubernetes clusters (multi-region, multi-cloud) for 5G core networks, ensuring high availability, auto-scaling, and cost efficiency.
+- 5G Cloud Core Architecture (Canada-Wide Implementation) – Led end-to-end design and deployment of 5G Standalone (SA) & Dual-Mode Core for a national telecom provider, optimizing Ericsson CNIS, SDN/NFV, and cloud-native functions for low-latency, high-throughput data delivery.
+- SRE & Cloud Reliability – Deep expertise in SLO/SLI-driven observability (Prometheus, Grafana, ELK), incident management, and observability engineering—ensuring 99.99%+ uptime for critical services.
+- Infrastructure as Code (IaC) & Automation – Expert in infrastructure automation using Terraform, Ansible, and Jenkins, with specialized API-driven orchestration including Kubernetes RESTful operations and Redfish API for HPE ProLiant bare-metal provisioning, enabling self-healing, scalable cloud environments.
+- Performance at Scale – Optimized Linux (SuSE/CentOS), network stacks, and containerized workloads for millions of concurrent users—ensuring smooth streaming experiences under peak loads.
+- Leadership & Innovation – Adept at leading cross-functional teams, driving cloud transformation, and implementing SRE principles to enhance reliability. Passionate about next-gen cloud networking, automation, and scalable infrastructure design.
 
 ### Work Experience  
 - Sr. Cloud Designer, Core Technology Planning
