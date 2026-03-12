@@ -4,58 +4,56 @@
 
 ### Objective
 
-Eager learner and strategic self-starter, enthusiastic about cloud-based architectural solutions development, looking for Technical Engineer positions, where over 10 years of experience managing large-scale distributed system integration and network applications across multiple platforms, coupled with graduate education in Electrical & Computer Engineering will add value to your team.
+Senior cloud infrastructure architect with 10+ years architecting nationwide enterprise platforms. Expert in **cloud computing architecture, data center design/implementation/planning**, and **5G core cloud-native infrastructure solutions**. 
+
+Led design and deployment of a **national-scale, multi-cluster 5G core platform** (20+ clusters, 1,000+ servers) with 99.9% uptime and 20% cost reduction. Independently architected an **enterprise-grade Grafana-based observability platform** integrated with national CNIS environment for real-time infrastructure and CNF metrics visibility—enabling proactive incident prevention and deep operational insights.
+
+Rapid technology adoption: Master **Kubernetes, SDN/NFV, cloud-native frameworks** and translate them into production systems at scale. Strong track record: architecture design + observability systems + cost optimization + team leadership for mission-critical 5G infrastructure.
 
 ### Interest Area
 
 Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualization / Software Define Network (SDN) / System Network Automation & Orchestration / DevOps
 
-### Areas of Expertise
+### Technical Skills
 ```markdown
-# Network
--	IP networks, Routing, Switching, WAN, LAN, Wireless, IP Video, Internet, Hosting
--	BGP, EIGRP, OSPF, TCP/IP protocol suite, LAN (Ethernet, Token Ring and FDDI); WAN protocols (X.25, Frame Relay, and ATM); IP addressing (CIDR, Subnetting, VLSM)
--	TCP/UDP, HTTP, RSTP, DHCP, VLAN (802.1Q), MPLS, NAT, ARP,TELNET, ICMP, SSL
--	TCP/IP, L2, L3, VLANs, VXLAN, QoS markings, traffic classifications and prioritization, Layer 4-7 inspections
--	CDN, Load Balancer, Network Latency, Bandwidth Control
--	WAN Optimization: Caching, Compression, Data Reduction, Latency Reduction, QoS tagging, Packet coalescing, DNS query/record type/optimization
--	OpenStack, OpenWRT, OpenDayLight, Clearwater, OpenVSwitch, VDS 
+**Cloud Architecture & Design**
+- Multi-cloud platform architecture (AWS, Google Cloud, Azure)
+- Cloud-native infrastructure at scale; Kubernetes, Docker containerization
+- 5G core platform architecture and design
 
-# Storage
--	SAN, RAID, iSCSI, FC HBA, FC LUN, NFS, VMFS, NAS
--	OpenSDS, Openstack Cinder, Virtual SANs, Inter-VSAN Routing (IVR) 
+**Data Center Infrastructure & Planning**
+- Data center architecture, design, implementation, capacity planning
+- HPE Proliant deployment and lifecycle management (1,000+ servers)
+- Hybrid cloud infrastructure optimization; 20%+ cost efficiency gains
 
-# Software
--	Service-Oriented Architecture: WCF/SOAP, Restful HTTP, JSON, XML
--	SCM (GIT, github), Build (CMake, Make files, Maven), Nexus, CI(Jenkins)
--	Front End: HTML, CSS, Javascript, Modular JS, jQuery, Angular.JS
--	Back End: Node.js, ElasticSearch/Logstash, 
--	MATLAB, C/C++, .NET, Java, Python, Tcl/tk, Perl, Powershell, PowerGUI
--	Nagios, ELK, Grafana, Splunk, OpenStack
--	Wireshark, TCP Dump, JMeter, RabbitMQ
--	Atlassian Suite (Confluence/JIRA), BMC Remedy; 
+**5G & Cloud Networking Solutions**
+- 5G Core Network Design & Architecture (Dual-Mode, Stand-alone Core)
+- Ericsson CNIS integration and optimization
+- SDN/NFV – Software-Defined Networking & Network Function Virtualization
+- Carrier-grade network automation and orchestration
 
-# System
--	Virtual Machine Monitor (VMM): Native/Bare-metal hypervisor (type-1), hosted hypervisor (type-2)
--	Linux, MS Servers, Apache HTTP Server (lighttpd), CoreOS, Docker, Kubernetes, Mesos, Rancher
--	ESXi, VMware (vCenter/VSphere), AWS, GCP, Rackspace, HDP, OpenStack
--	HP c7000 enclosure / Proliant BL 460c Blade, Cisco router, Catalyst series switch; Cisco ASA 5500 Series, Firewall Pix 501,515, Cisco ACS server, F5 Load balancer (BIG IP), Citrix Netscaler
--	Cisco (ASR9k, CRS, Catalyst Switches, Nexus 5k/7k), Juniper (MX, EX, SRX), Alcatel-Lucent (7750) and A10 (AX) 
+**Observability & Monitoring Architecture** 
+- **In-house Grafana platform** design and implementation (enterprise-grade, CNIS-integrated)
+- Real-time infrastructure and CNF metrics visualization
+- Proactive incident detection and root-cause analysis systems
+- SLA monitoring frameworks; 99.9%+ uptime assurance
+- Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana) for centralized insights
 
-# Database
--	Relational DB (MySQL / PostgresSQL), Document DB (Cassandra, MongoDB, Couchbase Hadoop, MapReduce) 
--	Database optimization, dedupe, database caching server, 
--	In-Memory, key-value data stores solution: Redis, memcached 
+**Automation & Infrastructure-as-Code**
+- Infrastructure-as-code (Ansible, Terraform, Jenkins); CI/CD pipeline architecture
+- Fully automated server provisioning and configuration at scale
+- GitOps best practices and declarative infrastructure management
 
-# Security
--	Symmetric encryption, Asymmetric encryption, encryption at rest / in transit
--	IP web technologies, particularly security, firewalls, VPNs, API proxy, L2-VPN, IPsec, VPC
--	Authentication: OAUTH2, JSON Webtoken, OpenSSL, LDAP 
+**Performance Engineering & Testing**
+- Automated performance testing frameworks (JMeter); API optimization
+- Operational acceptance testing (OAT) protocols and execution
+- Incident response engineering; MTTR reduction (40%+ improvements)
 
-# Integration
--	Carrier Ethernet Network, MEF suite, NOC/Colo Managed Services, Audio/Visual CPE and IPTV
--	LiveTV, VOD, OTT, ATSC/DVB suite, Cable Modem, Set-Top-Box, QAM, DOCSIS/CMTS
--	Private/Public Cloud solution, CDN, Video Distribution Network, Openstack Mitaki HA, Terraform
+**Programming & Systems Administration**
+- Python, JavaScript, Perl, PowerShell scripting and automation
+- Linux administration (Ubuntu, CentOS); optimization and hardening
+- API design, microservices architecture support, backend optimization
+
 
 ```
 ### Relevant Work Experience
