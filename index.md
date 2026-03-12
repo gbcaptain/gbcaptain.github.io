@@ -15,7 +15,7 @@ Rapid technology adoption: Master **Kubernetes, SDN/NFV, cloud-native frameworks
 Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualization / Software Define Network (SDN) / System Network Automation & Orchestration / DevOps
 
 ### Technical Skills
-```markdown
+
 **Cloud Architecture & Design**
 - Multi-cloud platform architecture (AWS, Google Cloud, Azure)
 - Cloud-native infrastructure at scale; Kubernetes, Docker containerization
@@ -55,7 +55,7 @@ Site Reliability Engineering (SRE) / Cloud Computing / Data Center Virtualizatio
 - API design, microservices architecture support, backend optimization
 
 
-```
+
 ### Relevant Work Experience
 
 - Sr. Cloud Designer, Wireless Data Core Engineering
